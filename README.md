@@ -6,11 +6,14 @@ Tamashii
 This project is a minimal prototype port of the NYX robotics controller to NuttX.
 This was presented at the NuttX Online Workshop, 2020.
 
+The prototype demonstrates the use of GPS and Wifi modules to broadcast simulated
+navigational telemetry of the NYX robot. 
+
 The project was built for and tested on an STM32F4 Discovery compatible board.
 
 The `catchpole` directory is to be added to the NuttX `apps` directory.
 
-This project is part of the [Robotics Mission to Antarctica](https://www.catchpole.net/nyx/)
+This project is part of the [Robotics Mission to Antarctica](https://www.catchpole.net/nyx)
 
 ![Nyx](http://kamome.slipperyseal.net/nyx-float1.jpg "Nyx")
 
