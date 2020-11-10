@@ -1,0 +1,7 @@
+############################################################################
+# Adds selected applications to apps/ build
+############################################################################
+
+ifneq ($(CONFIG_CATCHPOLE_TAMASHII),)
+CONFIGURED_APPS += $(APPDIR)/catchpole/tamashii
+endif
