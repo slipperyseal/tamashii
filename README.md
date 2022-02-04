@@ -13,9 +13,9 @@ The project was built for and tested on an STM32F4 Discovery compatible board.
 
 The `catchpole` directory is to be added to the NuttX `apps` directory.
 
-This project is part of the [Robotics Mission to Antarctica](https://www.catchpole.net/nyx)
+This project is part of the Robotics Mission to Antarctica
 
-![Nyx](http://kamome.slipperyseal.net/nyx-float1.jpg "Nyx")
+![Nyx](https://storage.googleapis.com/kyoto.catchpole.net/nyx-float1.jpg "Nyx")
 
 The presentation on YouTube...
 
@@ -23,8 +23,8 @@ The presentation on YouTube...
 
 Hardware...
 
-![Bits](http://kamome.slipperyseal.net/tamashii-nuttx-bits.jpg "Bits")
+![Bits](https://storage.googleapis.com/kyoto.catchpole.net/tamashii-nuttx-bits.jpg "Bits")
 
 Design block diagram...
 
-![design](http://kamome.slipperyseal.net/tamashii-nuttx-design.png "Design")
+![design](https://storage.googleapis.com/kyoto.catchpole.net/tamashii-nuttx-design.png "Design")
