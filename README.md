@@ -15,7 +15,7 @@ The `catchpole` directory is to be added to the NuttX `apps` directory.
 
 This project is part of the Robotics Mission to Antarctica
 
-![Nyx](https://storage.googleapis.com/kyoto.catchpole.net/nyx-float1.jpg "Nyx")
+![Nyx](https://github.com/slipperyseal/tamashii/blob/slippery/doc/nyx-float1.jpg "Nyx")
 
 The presentation on YouTube...
 
@@ -23,8 +23,8 @@ The presentation on YouTube...
 
 Hardware...
 
-![Bits](https://storage.googleapis.com/kyoto.catchpole.net/tamashii-nuttx-bits.jpg "Bits")
+![Bits](https://github.com/slipperyseal/tamashii/blob/slippery/doc/tamashii-nuttx-bits.jpg "Bits")
 
 Design block diagram...
 
-![design](https://storage.googleapis.com/kyoto.catchpole.net/tamashii-nuttx-design.png "Design")
+![design](https://github.com/slipperyseal/tamashii/blob/slippery/doc/tamashii-nuttx-design.png "Design")
